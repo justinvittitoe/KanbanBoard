@@ -61,3 +61,10 @@ PORT=3001
 Justin Vittitoe
 GitHub: @justinvittitoe
 
+## Deployed Site
+
+https://kanbanboard-09iz.onrender.com/
+
+### login
+username: JollyGuru
+password: password
